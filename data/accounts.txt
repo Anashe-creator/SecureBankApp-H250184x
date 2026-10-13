@@ -1,0 +1,2 @@
+# SecureBankApp accounts: accountNumber|owner|type|balance|createdAt
+7828995539|proud|SAVINGS|0.00|2026-10-09T09:36:48.733943700Z

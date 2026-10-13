@@ -1,0 +1,3 @@
+# SecureBankApp users: username|salt|passwordHash|iterations|failedAttempts|lockedUntil
+proud|EzEFRlL1Ug1Z111aPlz6DQ==|uawnk7S/p3QZYd+8LuWtZRQ0YO7HkMZxkk33BHCXQrU=|600000|0|0
+anashe|Vc/Jr5RGC1EVLMwxYPJNoA==|FzBiNu76WSvWnfOZtNbirNbkNu3hSi5fC0xc6mVdaD4=|600000|0|0

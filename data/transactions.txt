@@ -1,0 +1,2 @@
+# SecureBankApp transactions: id|accountNumber|type|amount|balanceAfter|timestamp|description
+1aae2948-4a92-47fd-92c9-1cb3ba2f271a|7828995539|ACCOUNT_OPENING|0.00|0.00|2026-10-09T09:36:48.753942Z|Account opened
